@@ -42,5 +42,7 @@ pip install -r requirements.txt
 
 Михаил Югай / CertifiedCIown
 
-GitHub:
-https://github.com/CertifiedCIown
+GitHub профиль:
+https://github.com/CertifiedCIown\
+GitHub проекты:
+https://github.com/CertifiedCIown/Projects-from-GetCourse-CapEducation-
